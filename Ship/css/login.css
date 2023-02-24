@@ -1,0 +1,42 @@
+.container {
+    max-height: 95;
+    min-width: 1440px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.image {
+    max-height: 100%;
+    width: 956px;
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+.logo{
+    width: 328px;
+    top: 99px;
+    left: 173px;
+}
+.form-login {
+    left: 0;
+    width: 484px;
+}
+.form-login > p {
+    top: 321px;
+    left: 71px;
+    font-size: 24px;
+    font-weight: 600;
+    color: #5E5873;
+}
+.login-form{
+    top: 415px;
+    left: 72px;
+    margin: 2px;
+}
+.login-input{
+    width: 342px;
+    height: 38px;
+    border: 1px solid #5E5873;
+
+}
